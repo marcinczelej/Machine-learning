@@ -1,0 +1,11 @@
+pypi-simple
+setuptools==41.0.1
+click
+numpy
+pandas
+pathlib
+pillow
+tensorflow-gpu
+seaborn
+matplotlib
+sklearn
