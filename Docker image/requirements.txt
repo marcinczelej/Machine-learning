@@ -1,5 +1,5 @@
 pypi-simple
-setuptools==41.0.1
+setuptools==65.5.1
 click
 numpy
 pandas
